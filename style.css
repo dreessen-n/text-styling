@@ -1,7 +1,27 @@
 /* style sheet */
 
 * {
-    margin: 0px;
+    margin-left: 0px;
     padding: 0px;
     box-sizing: border-box;
+}
+
+h1 {
+    margin: 0px;
+    background-color: black;
+    color: white;
+    padding: 4px 0px 4px 10px;
+}
+
+h1 span {
+    color: aqua;
+    margin: 0px;
+}
+
+h2 {
+    background-color: #663399;
+    color: white;
+}
+h3 {
+    background-color: lightblue;
 }
