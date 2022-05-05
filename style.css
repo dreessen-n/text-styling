@@ -7,20 +7,24 @@
 }
 
 h1 {
-    margin: 0px;
+    margin: 10px 10px 0px 10px;
+    padding: 4px 0px 4px 10px;
     background-color: black;
     color: white;
-    padding: 4px 0px 4px 10px;
 }
 
 h1 span {
-    color: aqua;
     margin: 0px;
+    color: aqua;
 }
 
 h2 {
+    margin: 5px 10px 0px 10px;
+    padding: 4px 0px;
     background-color: #663399;
+    text-align: center;
     color: white;
+    font-style: italic;
 }
 h3 {
     background-color: lightblue;
